@@ -27,12 +27,12 @@ And the output file "bayesian_learning_readout..." contains the odor estimation 
 
 Similarly, in "invariant_learning.py, inputs are
 
-coM: the average number of odors simultaneously presented (coM = 3).
-M : the total number of odor (M = 50).
-N : the total number of glomeruli (N = 200).
-sigmax : the standard deviation of input Gaussian noise (sigmax = 1.0).
-Zrho_init : a constant that determines the initial value of the weight precision (Zrho_init = 0.5)
-circuit_type: "circuit_type = 0" corresponds to the model without piriform to granule connection depicted in Fig. 7A(iii), while "circuit_type = 1" corresponds to the model depicted in Fig. 7A(iv).
-ik : id of simulation.
+* coM: the average number of odors simultaneously presented (coM = 3).
+* M : the total number of odor (M = 50).
+* N : the total number of glomeruli (N = 200).
+* sigmax : the standard deviation of input Gaussian noise (sigmax = 1.0).
+* Zrho_init : a constant that determines the initial value of the weight precision (Zrho_init = 0.5)
+* circuit_type: "circuit_type = 0" corresponds to the model without piriform to granule connection depicted in Fig. 7A(iii), while "circuit_type = 1" corresponds to the model depicted in Fig. 7A(iv).
+* ik : id of simulation.
 
 The output file "invariant_learning_readout..." contains the odor estimation performance and the weight error of both granule cells and piriform neurons after each trial.
