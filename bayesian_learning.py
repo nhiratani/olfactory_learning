@@ -4,10 +4,6 @@
 # See the associated README file (http://github.com/nhiratani/olfactory_learning) for the details. 
 #
 from math import *
-import os
-os.environ["MKL_NUM_THREADS"] = '4'
-os.environ["NUMEXPR_NUM_THREADS"] = '4'
-os.environ["OMP_NUM_THREADS"] = '4'
 import sys
 import numpy as np
 from numpy import random as nrnd
