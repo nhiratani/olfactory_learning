@@ -15,12 +15,12 @@ Please see the maniscript for the derivations and further details.
 
 In "bayesian_learning.py", inputs are
 
-coM: the average number of odors simultaneously presented. Throughout the manuscript, coM = 3 unless otherwise stated.
-M: the total nuber of the odor. We used M = 100, except for Fig. 3 and Fig. 4C.
-N: the total number of glomeruli. N = 400 throughout the manuscript.
-sigmax: the standard deviation of input Gaussian noise (sigmax = 1.0).
-Zrho_init: a constant that detemines the initial value of the weight precision parameter (Zrho_init = 0.5, except for Fig. 6BD where Zrho_init = 0.3).
-ik: id of simulation. Curves in the figures are mean over 10 independent simulation unless otherwise stated.
+* coM: the average number of odors simultaneously presented. Throughout the manuscript, coM = 3 unless otherwise stated.
+* M: the total nuber of the odor. We used M = 100, except for Fig. 3 and Fig. 4C.
+* N: the total number of glomeruli. N = 400 throughout the manuscript.
+* sigmax: the standard deviation of input Gaussian noise (sigmax = 1.0). 
+* Zrho_init: a constant that detemines the initial value of the weight precision parameter (Zrho_init = 0.5, except for Fig. 6BD where Zrho_init = 0.3).
+* ik: id of simulation. Curves in the figures are mean over 10 independent simulation unless otherwise stated.
 
 And the output file "bayesian_learning_readout..." contains the odor estimation performance and the weight error after each trial.
 
