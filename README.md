@@ -1,9 +1,10 @@
 # olfactory_learning
 
-This is a readme file regarding the simulation codes for the manuscript entitled
+This is a readme file regarding the simulation codes for the manuscript:
 
 	"Rapid Bayesian learning in the mammlian olfactory system"
-	by Naoki Hiratani, and Peter E. Latham
+	Naoki Hiratani, and Peter E. Latham
+	doi: https://doi.org/10.1101/706200
 
 Questions on the manuscript and the codes should be addressed to Naoki Hiratani (N.Hiratani@gmail.com).
 
