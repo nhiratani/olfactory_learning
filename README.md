@@ -40,4 +40,5 @@ Similarly, in "invariant_learning.py, inputs are
 The output file "invariant_learning_readout..." contains the odor estimation performance and the weight error of both granule cells and piriform neurons after each trial.
 
 UPDATE
+
 2020-09-11: Replaced the link to the published version of the paper.
