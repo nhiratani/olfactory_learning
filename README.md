@@ -1,11 +1,11 @@
 # olfactory_learning
 
-This is a readme file regarding the simulation codes for the manuscript:
+This is a readme file regarding the simulation codes for the paper:
 
 	"Rapid Bayesian learning in the mammlian olfactory system"
 	Naoki Hiratani, and Peter E. Latham
-	bioRxiv (2019)
-	doi: https://doi.org/10.1101/706200
+	Nature Communications, 11, 3845 (2020)
+	doi: https://doi.org/10.1038/s41467-020-17490-0
 
 Questions on the manuscript and the codes should be addressed to Naoki Hiratani (N.Hiratani@gmail.com).
 
@@ -38,3 +38,6 @@ Similarly, in "invariant_learning.py, inputs are
 * ik : id of simulation.
 
 The output file "invariant_learning_readout..." contains the odor estimation performance and the weight error of both granule cells and piriform neurons after each trial.
+
+UPDATE
+2020-09-11: Replaced the link to the published version of the paper.
